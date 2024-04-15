@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi! My name is Svetlana :v:
+
+I learn Java at [Job4j](https://job4j.ru/) :coffee:
+-
+![Github stats](https://github-readme-stats.vercel.app/api?username=SvFoxy&hide=stars,prs,issues,contribs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SvFoxy&layout=compact)](https://github.com/SvFoxy/github-readme-stats)
 
 <!--
 **SvFoxy/SvFoxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
